@@ -2,7 +2,6 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-Maintained by ShunyEka Systems Pvt. Ltd.
 
 This module shows how to use the Deep Security Smart Check API to retrieve the vulnerability findings from the last scan on an image.
 
